@@ -45,6 +45,14 @@
 
 
 ---
+## 📊 My GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thotaadarsh&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+### 🔥 Languages & Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white&animation=glow)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white&animation=glow)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&animation=glow)
 
 ### 📬 Connect with Me
 <p align="left">
