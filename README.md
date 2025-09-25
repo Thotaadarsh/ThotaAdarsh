@@ -31,10 +31,15 @@
 
 ## 🎯 Goals  
 
-![Goal](https://img.shields.io/badge/GOAL-Becoming%20a%20Full--Stack%20Developer-blue)  
-![Goal](https://img.shields.io/badge/GOAL-Contribute%20to%20Open%20Source-brightgreen)  
-![Goal](https://img.shields.io/badge/GOAL-Learn%20Machine%20Learning-orange)  
-![Goal](https://img.shields.io/badge/GOAL-Explore%20Cloud%20Computing-purple)  
+## 🎯 Goals  
+
+![Goal](https://img.shields.io/badge/Goal-Build%20Scalable%20AI%20Applications-ff69b4?style=for-the-badge&logo=ai)  
+![Goal](https://img.shields.io/badge/Goal-Master%20Full--Stack%20Engineering-1e90ff?style=for-the-badge&logo=react)  
+![Goal](https://img.shields.io/badge/Goal-Share%20Knowledge%20through%20Open%20Source-32cd32?style=for-the-badge&logo=opensourceinitiative)  
+![Goal](https://img.shields.io/badge/Goal-Strengthen%20Data%20Science%20Skills-f39c12?style=for-the-badge&logo=anaconda)  
+![Goal](https://img.shields.io/badge/Goal-Contribute%20to%20Tech%20Communities-9b59b6?style=for-the-badge&logo=devdotto)  
+![Goal](https://img.shields.io/badge/Goal-Crack%20Top%20Coding%20Challenges-f1c40f?style=for-the-badge&logo=codeforces)  
+
 
 ## 📊 GitHub Stats  
 
