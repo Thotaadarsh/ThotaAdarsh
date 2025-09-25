@@ -7,7 +7,7 @@
 ## 👨‍💻 Coding Vibes  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naresh-chandran/naresh-chandran/master/dev.gif" width="420" />
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="420" />
 
 </p>
 
