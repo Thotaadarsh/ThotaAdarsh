@@ -7,8 +7,7 @@
 ## 👨‍💻 Coding Vibes  
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_2.gif" width="400px" alt="coding animation"/>
+<img src="https://assets10.lottiefiles.com/packages/lf20_jcikwtux.json" alt="coding animation" width="400px"/>
 
 
 </p>
