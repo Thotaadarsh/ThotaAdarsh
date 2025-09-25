@@ -7,9 +7,7 @@
 ## 👨‍💻 Coding Vibes  
 
 <p align="center">
-![Animated badge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2MDAnIGhlaWdodD0nMTIwJyB2aWV3Qm94PScwIDAgNjAwIDEyMCc+CiAgPHJlY3Qgcng9JzEyJyB3aWR0aD0nNjAwJyBoZWlnaHQ9JzEyMCcgZmlsbD0nIzBmMTcyYScvPgogIDxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDQwLDMwKSc+CiAgICA8dGV4dCB4PScwJyB5PSczNScgZm9udC1mYW1pbHk9J1NlZ29lIFVJLCAgUm9ib3RvLCBBcmlhbCcgZm9udC1zaXplPScyOCcgZmlsbD0nI2ZmZmZmZic+SSdtIGJ1aWxkaW5nIGNvb2wgc3VmZjwvdGV4dD4KICAgIDxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDAsNjApJz4KICAgICA)
-
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 
 </p>
 
