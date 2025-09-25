@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">A passionate Full Stack & AI Developer from India</h3>
+
+---
 <p align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 </p>
----
-
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Data Analysis**  
 - 👯 I’m looking to collaborate on **Open Source Web Development & AI Projects**  
