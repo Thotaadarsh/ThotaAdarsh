@@ -19,7 +19,7 @@
 - 🔭 I'm currently Working on **AI based projects & Web devolopment projects**
 - 🌱 I’m currently learning **Artifical Intelligence, Machine Learning, and data analysis**  
 - 👯 I’m looking to collaborate on **Open Source Web Development & AI Projects**  
-- 💬 Ask me about *java, JavaScript, Data Structures, Backend APIs, or Web Development**  
+- 💬 Ask me about **java, JavaScript, Data Structures, Backend APIs, or Web Development**  
 - 📧 Reach me at: **adarshthota61@gmail.com**  
 - 🔗 Connect on linkedin.com/in/adarsh-thota-360b1831b 
 - ⚡ Fun fact: *I can solve a Rubik’s Cube in under 2 minutes!* 
