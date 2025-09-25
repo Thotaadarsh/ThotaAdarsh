@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
-    font=Courier New=25&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    font=Tahoma=25&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 
 </p>
