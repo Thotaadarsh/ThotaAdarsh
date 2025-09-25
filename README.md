@@ -34,11 +34,13 @@
 
 ---
 
-### 🎯 Goals
-- 🚀 Becoming a Full-Stack Developer  
-- 🌍 Contribute to Open Source  
-- 🤖 Learn Machine Learning & AI  
-- ☁️ Explore Cloud Computing  
+## 🎯 Goals  
+
+![Goal](https://img.shields.io/badge/GOAL-Becoming%20a%20Full--Stack%20Developer-blue)  
+![Goal](https://img.shields.io/badge/GOAL-Contribute%20to%20Open%20Source-brightgreen)  
+![Goal](https://img.shields.io/badge/GOAL-Learn%20Machine%20Learning-orange)  
+![Goal](https://img.shields.io/badge/GOAL-Explore%20Cloud%20Computing-purple)  
+
 
 ---
 
