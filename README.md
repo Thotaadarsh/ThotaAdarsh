@@ -29,7 +29,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thotaadarsh&show_icons=true&theme=radical)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thotaadarsh&theme=radical&hide_border=false)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thotaadarsh&theme=radical)](https://git.io/streak-stats)
+ 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thotaadarsh&layout=compact&theme=radical)  
 
