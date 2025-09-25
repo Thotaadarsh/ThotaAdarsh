@@ -8,13 +8,23 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Data Analysis**  
-- 👯 I’m looking to collaborate on **Open Source Web Development & AI Projects**  
-- 💬 Ask me about **Java, JavaScript, Data Structures, Backend APIs, or Web Development**  
-- 📧 Reach me at: **adarshthota61@gmail.com**  
-- 🔗 Connect on [LinkedIn](linkedin.com/in/adarsh-thota-360b1831b)  
-- ⚡ Fun fact: *I can solve a Rubik’s Cube in under 2 minutes!*  
+👨‍💻 About Me
+
+🌱 Currently learning & exploring Artificial Intelligence, Machine Learning, and Data Analytics
+
+🛠️ Experienced in Backend APIs, Web Development, and Salesforce Customization
+
+👯 Open to collaborating on AI-driven solutions, open source tools, and community projects
+
+💬 Ask me about Java, JavaScript, DSA, REST APIs, or Cloud-based Development
+
+🎯 Goal: To become a solution architect who blends AI with scalable applications
+
+📧 Reach me at: adarshthota61@gmail.com
+
+🔗 Let’s connect on LinkedIn
+
+⚡ Fun fact: I can solve a Rubik’s Cube in under 2 minutes! 🧩
 
 ---
 
