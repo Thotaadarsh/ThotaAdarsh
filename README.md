@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thotaadarsh&show_icons=true&theme=radical)  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thotaadarsh&theme=radical)](https://git.io/streak-stats)
- 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thotaadarsh&layout=compact&theme=radical)  
-
 ---
 
 ## 🎯 Goals  
@@ -43,16 +34,17 @@
 ![Goal](https://img.shields.io/badge/GOAL-Learn%20Machine%20Learning-orange)  
 ![Goal](https://img.shields.io/badge/GOAL-Explore%20Cloud%20Computing-purple)  
 
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thotaadarsh&show_icons=true&theme=radical)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thotaadarsh&theme=radical)](https://git.io/streak-stats)
+ 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thotaadarsh&layout=compact&theme=radical)  
+
+
+
 
 ---
-## 📊 My GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thotaadarsh&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-### 🔥 Languages & Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white&animation=glow)
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white&animation=glow)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&animation=glow)
 
 ### 📬 Connect with Me
 <p align="left">
