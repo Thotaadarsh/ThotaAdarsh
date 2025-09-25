@@ -38,7 +38,7 @@
 
 ## 🎯 Goals  
 
-![Goal](https://img.shields.io/badge/Goal-Build%20Scalable%20AI%20Applications-ff69b4?style=for-the-badge&logo=ai)  
+![Goal](https://img.shields.io/badge/Goal-Build%20Scalable%20AI%20Applications-ff69b4?style=for-the-badge&logo=AI)  
 ![Goal](https://img.shields.io/badge/Goal-Master%20Full--Stack%20Engineering-1e90ff?style=for-the-badge&logo=react)  
 ![Goal](https://img.shields.io/badge/Goal-Share%20Knowledge%20through%20Open%20Source-32cd32?style=for-the-badge&logo=opensourceinitiative)  
 ![Goal](https://img.shields.io/badge/Goal-Strengthen%20Data%20Science%20Skills-f39c12?style=for-the-badge&logo=anaconda)  
