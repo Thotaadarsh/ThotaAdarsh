@@ -7,10 +7,7 @@
 ## 👨‍💻 Coding Vibes  
 
 <p align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-
-
-
+ <img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/assets/reading.gif" width="420" />
 </p>
 
 
