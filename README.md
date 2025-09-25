@@ -8,7 +8,8 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400px" alt="fun animation"/>
+<img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_2.gif" width="400px" alt="coding animation"/>
+
 
 </p>
 
