@@ -27,10 +27,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thotaadarsh&theme=radical&hide_border=false)](https://git.io/streak-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thotaadarsh&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Thotaadarsh&theme=radical&hide_border=false)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thotaadarsh&layout=compact&theme=radical)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
